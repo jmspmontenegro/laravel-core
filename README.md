@@ -27,7 +27,7 @@ docker exec -it nginx bash
 5. Navegate to nginx directory and install Laravel:
 ```
 cd /usr/share/nginx/
-compose install
+composer install
 ```
 6. Create symbolic link and generate laravel key:
 ```
